@@ -6,4 +6,5 @@ Are app allows our writers to post blog comments, reviews, and even tutorial vid
 
 
 Thanks,
-The RGB enthusiests team
+
+_The RGB enthusiests team_
